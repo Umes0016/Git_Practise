@@ -1,2 +1,2 @@
-print(24)
+print(2.4)
 print("German")

@@ -1,2 +1,2 @@
 print("Titli")
-print(27)
+print(2.7)
